@@ -11,3 +11,11 @@ The following graph displays the runtime of the old code vs. the new code with v
 
 
 ![image](https://github.com/user-attachments/assets/c6a811e3-f7b9-4933-b4c8-d141fa772838)
+
+
+
+## Code Files
+
+- [code_1.py](./code_1.py): The original code.
+- [better_code.py](./better_code.py): The refactored version of code_1.py
+- 

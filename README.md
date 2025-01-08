@@ -18,4 +18,5 @@ The following graph displays the runtime of the old code vs. the new code with v
 
 - [code_1.py](./code_1.py): The original code.
 - [better_code.py](./better_code.py): The refactored version of code_1.py
-- 
+- [test_better_code.py](./test_better_code.py): Contains the unit tests for better_code.py
+- [create_test_files.py](./create_test_files.py): Used for creating .csv files for testing the codes
